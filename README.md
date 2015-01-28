@@ -7,4 +7,4 @@ In den /export Verzeichnissen sind die aus den jeweiligen Projekt-Daten erstellt
    
 _Alle Inhalte stehen unter der folgenden Lizenz:_
 
-[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/
+[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
