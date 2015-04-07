@@ -9,7 +9,13 @@ Im `/export` Unterverzeichnis befinden sich bereits exportierte Versionen im PDF
 
 ##### Hallo Nachbar / Mach mit
 
-Zum Bearbeiten sind noch die beiden folgenden Schriftarten notwendig:
+Benötigte Schriftarten:
 
 * [ASAP](http://www.fontsquirrel.com/fonts/asap)
 * [Gloria Hallelujah](http://www.1001freefonts.com/gloria_hallelujah.font)
+
+##### Beipackzettel
+
+Benötigte Schriftarten:
+
+* Myriad Pro
