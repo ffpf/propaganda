@@ -1,4 +1,5 @@
-### Freifunk Karlsruhe Flyer
+Freifunk Karlsruhe Flyer
+------------------------
 
 In diesem Verzeichnis befinden sich die Flyervorlagen. Zum Bearbeiten der Projekt-Daten empfiehlt sich der SVG Editor [Inkscape](http://inkscape.org).
 
@@ -6,7 +7,7 @@ Im `/export` Unterverzeichnis befinden sich bereits exportierte Versionen im PDF
 
 #### Hinweise zu den einzelnen Flyern
 
-##### Hallo Nachbar
+##### Hallo Nachbar / Mach mit
 
 Zum Bearbeiten sind noch die beiden folgenden Schriftarten notwendig:
 
