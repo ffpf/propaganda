@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300.0228"
+   inkscape:export-xdpi="300.0228"
+   sodipodi:docname="freifunk_karlsruhe_flyer_-_hallo-nachbar_a6_vorderseite.svg"
+   inkscape:version="0.48.5 r10040"
+   version="1.1"
+   id="svg5035"
+   height="531.49603"
+   width="379.13385">
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#b9b9b9"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="111.56211"
+     inkscape:cy="236.06842"
+     inkscape:current-layer="page1"
+     showgrid="false"
+     inkscape:window-width="1515"
+     inkscape:window-height="1065"
+     inkscape:window-x="201"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     width="105mm"
+     inkscape:snap-page="true"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="3.5433071,527.95272"
+       orientation="1,0"
+       id="guide5378" />
+    <sodipodi:guide
+       position="-3.5433071,3.5433071"
+       orientation="0,1"
+       id="guide5380" />
+    <sodipodi:guide
+       position="375.59054,-3.5433128"
+       orientation="-531.49603,0"
+       id="guide5382" />
+    <sodipodi:guide
+       position="375.59054,527.95272"
+       orientation="0,-379.13385"
+       id="guide5384" />
+  </sodipodi:namedview>
+  <title
+     id="title3104">&quot;Hallo Nachbar&quot; Flyer</title>
+  <defs
+     id="defs3">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path11466"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <color-profile
+       name="Generic-CMYK-Profile"
+       xlink:href="/System/Library/ColorSync/Profiles/Generic CMYK Profile.icc"
+       id="color-profile6765" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15586-6">
+      <rect
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect15588-7"
+         width="47.779167"
+         height="67.747452"
+         x="451.31796"
+         y="556.69183" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15586-0">
+      <rect
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect15588-70"
+         width="47.779167"
+         height="67.747452"
+         x="451.31796"
+         y="556.69183" />
+    </clipPath>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5052-5"
+       d="M 60.602886,354.72919 C 102.58705,305.76666 296.87148,345.53367 296.87148,345.53367"
+       style="fill:none;stroke:none" />
+    <clipPath
+       id="clipPath15586-09"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="556.69183"
+         x="451.31796"
+         height="67.747452"
+         width="47.779167"
+         id="rect15588-4"
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath15586-09-5"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="556.69183"
+         x="451.31796"
+         height="67.747452"
+         width="47.779167"
+         id="rect15588-4-2"
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5367">
+      <rect
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5369"
+         width="48.689247"
+         height="68.255951"
+         x="450.86292"
+         y="556.23682" />
+    </clipPath>
+    <clipPath
+       id="clipPath7158"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect7160"
+         width="48.689247"
+         height="68.255951"
+         x="450.86292"
+         y="556.23682" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>&quot;Hallo Nachbar&quot; Flyer</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robert Martinez</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>karlsruhe.freifunk.net</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>freifunk</rdf:li>
+            <rdf:li>karlsruhe</rdf:li>
+            <rdf:li>flyer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>uses this plugin: http://sourceforge.net/projects/inkscape-pages/</dc:description>
+        <dc:source>freifunk.net</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Page 1"
+     inkscape:groupmode="layer"
+     id="page1"
+     style="display:inline"
+     transform="translate(0,7.0866262)">
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot15544"
+       xml:space="preserve"
+       transform="translate(-0.00762939,-8.6500615)"><flowRegion
+         id="flowRegion15546"><rect
+           y="367.40942"
+           x="35"
+           height="110"
+           width="221"
+           id="rect15548" /></flowRegion><flowPara
+         id="flowPara15550" /></flowRoot>    <text
+       inkscape:transform-center-y="-15.15179"
+       inkscape:transform-center-x="-70.27404"
+       sodipodi:linespacing="108%"
+       id="text3225"
+       style="font-size:19.935009px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:108.00000429%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#009ee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00551176;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Gloria Hallelujah;-inkscape-font-specification:Gloria Hallelujah Bold"
+       xml:space="preserve"
+       transform="matrix(1.2802769,0.22448054,-0.22448054,1.2802769,79.725971,-131.0665)"><textPath
+         id="textPath5135"
+         xlink:href="#path5052">schon gesehen?</textPath></text>
+    <g
+       transform="matrix(-1,0,0,1,379.13385,0)"
+       style="display:inline"
+       id="g12221"
+       clip-path="none">
+      <path
+         id="rect3192"
+         d="M 258.46875,91 C 161.80886,91 72.384884,122.15194 0,174.78125 L 0,272.75 c 65.425065,-66.28298 156.9768,-107.34375 258.46875,-107.34375 42.33849,0 82.95696,7.13714 120.65625,20.28125 l 0,-77.9375 C 340.7904,96.85883 300.3145,91 258.46875,91 z m 0,108.6875 C 150.87805,199.6875 55.994274,253.47942 0,335.25 l 0,23.375 c 51.779049,-87.62868 148.11355,-146.5 258.46875,-146.5 42.94208,0 83.75959,8.91711 120.65625,24.96875 l 0,-13.53125 c -37.11319,-15.38544 -77.88093,-23.875 -120.65625,-23.875 z"
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32.88188934;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="translate(0,-7.0866262)"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccsccssccsccs" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect14872"
+         d="m -2.4511719e-6,-7.0866262 0,251.6937562 C 30.636348,195.88777 66.423813,174.16275 183.80255,151.35087 c 98.16815,-18.92399 140.69202,-5.99424 195.3313,0 l 0,-158.4374962 z"
+         style="color:#000000;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5052"
+       d="M 22.331206,340.33983 C 79.331204,288.33984 267.62891,280.76395 267.62891,280.76395"
+       style="fill:none;stroke:none" />
+    <flowRoot
+       transform="translate(417.62901,17.750206)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"
+       id="flowRoot15890"
+       xml:space="preserve"><flowRegion
+         id="flowRegion15892"><rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           y="6.8072743"
+           x="-357.79602"
+           height="418.60721"
+           width="323.85489"
+           id="rect15894" /></flowRegion><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Asap;-inkscape-font-specification:Asap Bold Italic"
+         id="flowPara15898">Hallo Nachbar, </flowPara><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Asap;-inkscape-font-specification:Asap Bold Italic"
+         id="flowPara15902">wir haben jetzt freies WLAN!</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="ccccsccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3306"
+       d="m 138.03022,331.11048 c -2.45836,-0.80105 -8.55504,-4.91781 -9.4827,-5.50386 -0.26689,-0.36993 0.34168,-1.36461 0.76579,-1.41733 1.15247,-0.48157 5.3651,4.13772 6.46325,3.51472 0.21832,-0.32055 -2.94696,-4.26532 -4.41234,-8.37349 -1.68541,-4.72501 -1.73653,-9.77166 -2.01646,-11.5222 -0.17354,-0.89592 1.89346,-1.19097 2.23422,0.21289 0.37041,1.79735 0.5749,7.23875 1.47585,10.32074 0.96738,2.46025 4.27953,8.74465 4.9012,8.69363 0.78168,-0.0377 2.20542,-7.20577 3.03302,-7.34904 0.43251,0.0639 1.73363,1.69629 1.46834,2.02817 -1.20908,3.0872 -2.33121,6.23285 -4.01735,9.10195 -0.10688,0.13344 -0.23402,0.27051 -0.41271,0.29374 z"
+       style="color:#000000;fill:#009ee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:transform-center-x="2.1016233"
+       inkscape:transform-center-y="-10.676216" />
+    <g
+       id="g6355"
+       transform="matrix(1.2998078,0,0,1.2998078,-166.60185,-164.60964)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6343"
+         d="M 165.97872,516.30063 C 227.4636,482.64012 379.81626,487.0569 379.81625,487.05689"
+         style="fill:none;stroke:none"
+         sodipodi:nodetypes="cc" />
+      <text
+         inkscape:transform-center-y="-10.3276"
+         inkscape:transform-center-x="-60.777022"
+         sodipodi:linespacing="108%"
+         id="text6345"
+         style="font-size:19.935009px;font-style:normal;font-weight:normal;text-align:start;line-height:108.00000429%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#009ee0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00652027;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"
+         xml:space="preserve"
+         transform="matrix(0.99998771,0.0049579,-0.0049579,0.99998771,-1.8074318,-9.9025557)"><textPath
+           id="textPath6351"
+           xlink:href="#path6343"><tspan
+   id="tspan6347"><tspan
+     x="142.75638"
+     y="510.48859"
+     style="font-variant:normal;font-weight:bold;font-stretch:normal;line-height:108.00000429%;color:#000000;fill:#009ee0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Gloria Hallelujah;-inkscape-font-specification:Gloria Hallelujah Bold"
+     id="tspan6349">Gruß von nebenan</tspan></tspan></textPath></text>
+    </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 87.127772,337.95341 c -5.15905,0 -9.907547,1.89588 -13.593743,5 l 1.90625,2.28125 c 3.171276,-2.67746 7.238443,-4.3125 11.687493,-4.3125 4.44992,0 8.49455,1.63411 11.625,4.3125 l 1.906248,-2.28125 c -3.652258,-3.10492 -8.371438,-5 -13.531248,-5 z m 0,5.5 c -3.81851,0 -7.326117,1.38701 -10.062497,3.6875 l 1.90625,2.28125 c 2.21031,-1.85165 5.062017,-2.96875 8.156247,-2.96875 3.09424,0 5.91752,1.1171 8.09375,2.96875 l 1.90625,-2.28125 c -2.70244,-2.30129 -6.18074,-3.6875 -10,-3.6875 z m 0,5.125 c -2.56446,0 -4.91097,0.95371 -6.749997,2.5 l 1.874997,2.28125 c 1.3175,-1.11367 3.01972,-1.78125 4.875,-1.78125 1.83951,0 3.52015,0.65326 4.8125,1.75 l 1.90625,-2.25 c -1.81853,-1.54629 -4.15428,-2.5 -6.71875,-2.5 z m -0.0312,5.96875 c -1.11072,0 -2.13935,0.39563 -2.9375,1.0625 l 2.9375,3.5 2.9375,-3.5 c -0.79814,-0.66687 -1.82677,-1.0625 -2.9375,-1.0625 z"
+       id="path3235"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.55378484;fill:#ffffff;stroke:none;display:inline"
+       d="m 74.202777,348.07283 7.603635,-4.62182 5.66546,-1.34182 4.7709,0.44728 5.96364,4.17454 8.796368,-11.33091 -11.330908,-5.81454 -15.65455,-2.68364 -14.014545,7.15636 z"
+       id="path17979"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5111"
+       transform="translate(6.002779,-49.863261)">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 81.124996,422.31667 c -5.15905,0 -9.90755,1.89588 -13.593746,5 l 1.90625,2.28125 c 3.171276,-2.67746 7.238446,-4.3125 11.687496,-4.3125 4.44992,0 8.49455,1.63411 11.625,4.3125 l 1.90625,-2.28125 c -3.65226,-3.10492 -8.37144,-5 -13.53125,-5 z m 0,5.5 c -3.81851,0 -7.32612,1.38701 -10.0625,3.6875 l 1.90625,2.28125 c 2.21031,-1.85165 5.06202,-2.96875 8.15625,-2.96875 3.09424,0 5.91752,1.1171 8.09375,2.96875 l 1.90625,-2.28125 c -2.70244,-2.30129 -6.18074,-3.6875 -10,-3.6875 z m 0,5.125 c -2.56446,0 -4.91097,0.95371 -6.75,2.5 l 1.875,2.28125 c 1.3175,-1.11367 3.01972,-1.78125 4.875,-1.78125 1.83951,0 3.52015,0.65326 4.8125,1.75 l 1.90625,-2.25 c -1.81853,-1.54629 -4.15428,-2.5 -6.71875,-2.5 z m -0.0312,5.96875 c -1.11072,0 -2.13935,0.39563 -2.9375,1.0625 l 2.9375,3.5 2.9375,-3.5 c -0.79814,-0.66687 -1.82677,-1.0625 -2.9375,-1.0625 z"
+         id="path17967"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(8.4999997,0)"
+         id="g5076">
+        <g
+           style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:9.28675556;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           transform="matrix(0.15411605,0,0,0.15411605,85.176521,367.15522)"
+           id="g4842">
+          <path
+             sodipodi:nodetypes="ssssssssssss"
+             inkscape:connector-curvature="0"
+             id="path4844"
+             d="m -122.5,358.92463 c -19.04478,0 -34.65625,15.61147 -34.65625,34.65625 l 0,48.46875 c 0,19.04478 69.3125,19.04478 69.3125,0 l 0,-48.46875 c 0,-19.04478 -15.61147,-34.65625 -34.65625,-34.65625 z m 0,18.0625 c 9.34909,0 16.59375,7.24466 16.59375,16.59375 l 0,48.46875 c 0,9.34909 -33.1875,9.34909 -33.1875,0 l 0,-48.46875 c 0,-9.34909 7.24466,-16.59375 16.59375,-16.59375 z"
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;stroke:#ffffff;stroke-width:20.37016869;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+          <rect
+             rx="12.552342"
+             style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:20.78400993;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             id="rect4846"
+             width="96.520073"
+             height="75.457047"
+             x="-170.7663"
+             y="419.62299"
+             ry="12.552342" />
+        </g>
+        <g
+           id="g4817"
+           transform="matrix(0.15411605,0,0,0.15411605,85.176521,367.15522)"
+           style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.28675556;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:18.06529808;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m -122.5,358.92463 c -19.04478,0 -34.65625,15.61147 -34.65625,34.65625 l 0,48.46875 c 0,19.04478 69.3125,19.04478 69.3125,0 l 0,-48.46875 c 0,-19.04478 -15.61147,-34.65625 -34.65625,-34.65625 z m 0,18.0625 c 9.34909,0 16.59375,7.24466 16.59375,16.59375 l 0,48.46875 c 0,9.34909 -33.1875,9.34909 -33.1875,0 l 0,-48.46875 c 0,-9.34909 7.24466,-16.59375 16.59375,-16.59375 z"
+             id="rect4045"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ssssssssssss" />
+          <rect
+             ry="12.552342"
+             y="419.62299"
+             x="-170.7663"
+             height="75.457047"
+             width="96.520073"
+             id="rect4043"
+             style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.28675556;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             rx="12.552342" />
+        </g>
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5111"
+       id="use5121"
+       transform="translate(3.0388311e-7,33.587571)"
+       width="372.04724"
+       height="524.40942" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5276"
+       y="287.84595"
+       x="16.992367"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="287.84595"
+         x="16.992367"
+         id="tspan5278"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot5292"
+       xml:space="preserve"
+       transform="matrix(1.1300097,0,0,1.1300097,222.32104,-242.38603)"><flowRegion
+         id="flowRegion5294"><rect
+           y="291.40942"
+           x="17"
+           height="89"
+           width="40"
+           id="rect5296" /></flowRegion><flowPara
+         id="flowPara5298" /></flowRoot>    <g
+       id="g3409"
+       transform="translate(0,40)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3397"
+         y="317.84619"
+         x="102.55754"
+         style="font-size:19.94698143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         xml:space="preserve"><tspan
+           style="font-size:19.94698143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Asap;-inkscape-font-specification:Asap Bold"
+           y="317.84619"
+           x="102.55754"
+           id="tspan3399"
+           sodipodi:role="line">karlsruhe.freifunk.net</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.94698143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         x="102.55754"
+         y="351.84619"
+         id="text3401"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3403"
+           x="102.55754"
+           y="351.84619"
+           style="font-size:19.94698143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;font-family:Asap;-inkscape-font-specification:Asap Bold">Wand AG</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3405"
+         y="384.19974"
+         x="102.55754"
+         style="font-size:19.94698143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         xml:space="preserve"><tspan
+           style="font-size:19.94698143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;font-family:Asap;-inkscape-font-specification:Asap Bold"
+           y="384.19974"
+           x="102.55754"
+           id="tspan3407"
+           sodipodi:role="line">FRITZ!BOX Fon 7170</tspan></text>
+    </g>
+  </g>
+</svg>
