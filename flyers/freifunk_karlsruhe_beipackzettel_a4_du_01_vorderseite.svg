@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg5152"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="freifunk_karlsruhe_beipackzettel_a4_du_01_vorderseite.svg">
+  <defs
+     id="defs5154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="506.10654"
+     inkscape:cy="398.78169"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1142"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       transform="matrix(1.0033784,0,0,1,0.06048517,-1.29181)"
+       id="g6580">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4724"
+         y="364.56979"
+         x="116.22931"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="364.56979"
+           x="116.22931"
+           id="tspan4726"
+           sodipodi:role="line">KURZINFORMATION ZU DEINEM FREIFUNK-ROUTER</tspan><tspan
+           id="tspan4728"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="383.31979"
+           x="116.22931"
+           sodipodi:role="line">BITTE VOR DER ERSTEN INBETRIEBNAHME LESEN</tspan></text>
+      <g
+         id="g4754">
+        <path
+           id="path3034"
+           style="fill:none;stroke:#100f0d;stroke-width:0.81612259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           d="m 35.841821,375.87341 c 0,-8.62361 6.960411,-15.61383 15.548256,-15.61383 8.586653,0 15.548256,6.99022 15.548256,15.61383 0,8.62362 -6.961603,15.61383 -15.548256,15.61383 -8.587845,0 -15.548256,-6.99021 -15.548256,-15.61383 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3036"
+           style="fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 71.317502,372.33002 6.582465,-6.61227 6.198557,0 -4.387515,4.40778 8.783376,0 0,4.40778 -8.783376,0 4.387515,4.40898 -6.198557,0 -6.582465,-6.61227 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3038"
+           style="fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 51.791868,372.33002 -3.886765,-3.90584 -3.661429,0 2.591972,2.60389 -5.187521,0 0,2.6039 5.187521,0 -2.591972,2.6027 3.661429,0 3.886765,-3.90465 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3048"
+           style="fill:none;stroke:#100f0d;stroke-width:4.90297508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           d="m 57.297723,368.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3050"
+           style="fill:none;stroke:#100f0d;stroke-width:0.81612259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           d="m 62.383902,368.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 57.297723,368.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+           style="fill:none;stroke:#100f0d;stroke-width:4.90297508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           id="path4741" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(0.00763,312.85941)"><flowRegion
+           id="flowRegion3178"><rect
+             id="rect3180"
+             width="453.75763"
+             height="98.926765"
+             x="35.21875"
+             y="293.25" /></flowRegion><flowPara
+           id="flowPara3190"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start">Sobald Dein Freifunk-Router startet, versucht er über Deinen Internetanschluss eine <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3202">verschlüsselte Verbindung</flowSpan> - einen sogenannten <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'"
+   id="flowSpan3204">VPN-Tunnel</flowSpan> - zu den <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'"
+   id="flowSpan3208">Freifunk- Servern</flowSpan> - im Freifunk-Sprech auch <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'"
+   id="flowSpan3212">Supernodes</flowSpan> genannt - aufzubauen. Dieser Vorgang macht Deine <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3216">Anschlusskennung</flowSpan> nach außen hin <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3218">unsichtbar</flowSpan> und <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3220">schützt Dich</flowSpan> so z.B. vor <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3222">ungerechtfertigten Abmahnungen</flowSpan> auf Basis der Störerhaftung.</flowPara><flowPara
+           id="flowPara3192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start" /></flowRoot>      <g
+         id="g3239"
+         transform="translate(-0.16817054,15.63239)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4766"
+           y="545.20996"
+           x="92.831657"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="545.20996"
+             x="92.831657"
+             id="tspan4768"
+             sodipodi:role="line">VERSCHLÜSSELTE VERBINDUNG</tspan><tspan
+             id="tspan4772"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="563.95996"
+             x="92.831657"
+             sodipodi:role="line">ZU DEN FREIFUNK-SERVERN HERSTELLEN</tspan></text>
+        <g
+           id="g3232">
+          <g
+             id="g4762"
+             transform="matrix(0.89583266,0,0,0.89583266,-13.440476,147.86535)">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57.297723,448.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+               style="fill:none;stroke:#100f0d;stroke-width:5.47309256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               id="path4750" />
+            <path
+               id="path4752"
+               style="fill:none;stroke:#100f0d;stroke-width:0.91102129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               d="m 62.383902,448.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3224"
+             y="554.08759"
+             x="53.736393"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               id="tspan3228"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="554.08759"
+               x="53.736393"
+               sodipodi:role="line">1</tspan></text>
+        </g>
+      </g>
+      <flowRoot
+         transform="translate(-0.09509,473.07668)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3250"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3252"><rect
+             y="293.25"
+             x="35.21875"
+             height="98.926765"
+             width="453.75763"
+             id="rect3254"
+             style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+           id="flowPara3412">Die <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold';text-align:justify;text-anchor:start"
+   id="flowSpan3373">intelligente Freifunk-Software</flowSpan> sucht im Betrieb nach anderen Freifunk-Routern in der Nähe. Findet sie geeignete Router in der Funkreichweite Deines Geräts, <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold';text-align:justify;text-anchor:start"
+   id="flowSpan3375">verbinden sich diese automatisch</flowSpan> in einem sogenannten <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic';text-align:justify;text-anchor:start"
+   id="flowSpan3377">Mesh</flowSpan> oder <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic';text-align:justify;text-anchor:start"
+   id="flowSpan3379">Maschen-Netzwerk</flowSpan>. Über das <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic';text-align:justify;text-anchor:start"
+   id="flowSpan3381">Maschen-Netzwerk</flowSpan> können sich mehrere Freifunk-Router z.B. eine <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold';text-align:justify;text-anchor:start"
+   id="flowSpan3397">Internetverbindung teilen</flowSpan>, ohne dass jedes Gerät einzeln an das Internet angeschlossen werden muss.</flowPara></flowRoot>      <g
+         id="g3276"
+         transform="translate(-0.16817054,175.84967)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="92.831657"
+           y="545.20996"
+           id="text3278"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3280"
+             x="92.831657"
+             y="545.20996"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start">ANDERE FREIFUNK-ROUTER IN DER NÄHE</tspan><tspan
+             sodipodi:role="line"
+             x="92.831657"
+             y="563.95996"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan3283">SUCHEN UND VERBINDEN</tspan></text>
+        <g
+           id="g3285">
+          <g
+             transform="matrix(0.89583266,0,0,0.89583266,-13.440476,147.86535)"
+             id="g3287">
+            <path
+               id="path3289"
+               style="fill:none;stroke:#100f0d;stroke-width:5.47309256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               d="m 57.297723,448.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 62.383902,448.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+               style="fill:none;stroke:#100f0d;stroke-width:0.91102129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               id="path3291" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="53.166393"
+             y="554.17004"
+             id="text3293"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="53.166393"
+               y="554.17004"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+               id="tspan3295">2</tspan></text>
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(-0.44177,649.34394)"><flowRegion
+           id="flowRegion3299"><rect
+             id="rect3301"
+             width="453.75763"
+             height="98.926765"
+             x="35.21875"
+             y="293.25" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+           id="flowPara3435">Deine <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3447">Besucher, Gäste oder Kunden</flowSpan> sehen nach der Inbetriebnahme des Freifunk-Routers auf ihrem <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3449">Smartphone, Tablet oder Laptop</flowSpan> ein <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3451">neues WLAN</flowSpan> namens <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'"
+   id="flowSpan3457">&quot;</flowSpan><flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'"
+   id="flowSpan3453">karlsruhe.freifunk.net&quot;</flowSpan>. Einfach antippen oder anklicken und <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3463">schon sind sie im Internet</flowSpan>. Da <flowSpan
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'"
+   id="flowSpan3465">Freifunk</flowSpan> ein offenes Netzwerk ist, werden keine Passwörter, Gutscheine oder sonstige Anmeldeformalitäten benötigt.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+           id="flowPara3437" /><flowPara
+           id="flowPara3321"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start" /></flowRoot>      <text
+         sodipodi:linespacing="125%"
+         id="text3325"
+         y="545.20996"
+         x="92.831657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(-0.16817054,352.11693)"><tspan
+           id="tspan3329"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="545.20996"
+           x="92.831657"
+           sodipodi:role="line">OFFENES WLAN MIT DER ZUGANGSKENNUNG</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="563.95996"
+           x="92.831657"
+           sodipodi:role="line"
+           id="tspan3425"><tspan
+   style="font-style:italic;-inkscape-font-specification:'Myriad Pro Heavy Italic'"
+   id="tspan3427">KARLSRUHE.FREIFUNK.NET</tspan> BEREITSTELLEN</tspan></text>
+      <g
+         id="g3331"
+         transform="translate(-0.16817054,352.11693)">
+        <g
+           id="g3333"
+           transform="matrix(0.89583266,0,0,0.89583266,-13.440476,147.86535)">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 57.297723,448.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+             style="fill:none;stroke:#100f0d;stroke-width:5.47309256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+             id="path3335" />
+          <path
+             id="path3337"
+             style="fill:none;stroke:#100f0d;stroke-width:0.91102129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+             d="m 62.383902,448.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3339"
+           y="554.08759"
+           x="53.233894"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan3341"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="554.08759"
+             x="53.233894"
+             sodipodi:role="line">3</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.6894018e-6,1.999985)"
+         id="g3604">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4766-5"
+           y="440.186"
+           x="35.208073"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan4772-2"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="440.186"
+             x="35.208073"
+             sodipodi:role="line">WAS MACHT MEIN FREIFUNK-ROUTER EIGENTLICH?</tspan></text>
+        <flowRoot
+           transform="translate(0.04740266,166.32739)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot3495"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3497"><rect
+               y="293.25"
+               x="35.21875"
+               height="98.926765"
+               width="453.75763"
+               id="rect3499" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+             id="flowPara3523">Bevor Du Deinen <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3531">neuen Freifunk-Router</flowSpan> einrichtest und aufstellst, möchtest Du vielleicht wissen, welche Aufgaben das Gerät überhaupt erfüllt. Hier sind die <flowSpan
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'"
+   id="flowSpan3533">drei wichtigsten Funktionen</flowSpan> kurz erklärt.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+             id="flowPara3525" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+             id="flowPara3519" /></flowRoot>      </g>
+    </g>
+    <g
+       id="g7042"
+       transform="matrix(1.0033784,0,0,1,526.24158,-1.29181)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="116.22931"
+         y="364.56979"
+         id="text7044"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7046"
+           x="116.22931"
+           y="364.56979"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start">KURZINFORMATION ZU DEINEM FREIFUNK-ROUTER</tspan><tspan
+           sodipodi:role="line"
+           x="116.22931"
+           y="383.31979"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7048">BITTE VOR DER ERSTEN INBETRIEBNAHME LESEN</tspan></text>
+      <g
+         id="g7050">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 35.841821,375.87341 c 0,-8.62361 6.960411,-15.61383 15.548256,-15.61383 8.586653,0 15.548256,6.99022 15.548256,15.61383 0,8.62362 -6.961603,15.61383 -15.548256,15.61383 -8.587845,0 -15.548256,-6.99021 -15.548256,-15.61383 z"
+           style="fill:none;stroke:#100f0d;stroke-width:0.81612259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           id="path7052" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.317502,372.33002 6.582465,-6.61227 6.198557,0 -4.387515,4.40778 8.783376,0 0,4.40778 -8.783376,0 4.387515,4.40898 -6.198557,0 -6.582465,-6.61227 z"
+           style="fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path7054" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 51.791868,372.33002 -3.886765,-3.90584 -3.661429,0 2.591972,2.60389 -5.187521,0 0,2.6039 5.187521,0 -2.591972,2.6027 3.661429,0 3.886765,-3.90465 z"
+           style="fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path7056" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 57.297723,368.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+           style="fill:none;stroke:#100f0d;stroke-width:4.90297508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           id="path7058" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 62.383902,368.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+           style="fill:none;stroke:#100f0d;stroke-width:0.81612259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           id="path7060" />
+        <path
+           id="path7062"
+           style="fill:none;stroke:#100f0d;stroke-width:4.90297508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           d="m 57.297723,368.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         transform="translate(0.00763,312.85941)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot7064"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7066"><rect
+             y="293.25"
+             x="35.21875"
+             height="98.926765"
+             width="453.75763"
+             id="rect7068" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+           id="flowPara7070">Sobald Dein Freifunk-Router startet, versucht er über Deinen Internetanschluss eine <flowSpan
+   id="flowSpan7072"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">verschlüsselte Verbindung</flowSpan> - einen sogenannten <flowSpan
+   id="flowSpan7074"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'">VPN-Tunnel</flowSpan> - zu den <flowSpan
+   id="flowSpan7076"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'">Freifunk- Servern</flowSpan> - im Freifunk-Sprech auch <flowSpan
+   id="flowSpan7078"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'">Supernodes</flowSpan> genannt - aufzubauen. Dieser Vorgang macht Deine <flowSpan
+   id="flowSpan7080"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">Anschlusskennung</flowSpan> nach außen hin <flowSpan
+   id="flowSpan7082"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">unsichtbar</flowSpan> und <flowSpan
+   id="flowSpan7084"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">schützt Dich</flowSpan> so z.B. vor <flowSpan
+   id="flowSpan7086"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">ungerechtfertigten Abmahnungen</flowSpan> auf Basis der Störerhaftung.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+           id="flowPara7088" /></flowRoot>      <g
+         transform="translate(-0.16817054,15.63239)"
+         id="g7090">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="92.831657"
+           y="545.20996"
+           id="text7092"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7094"
+             x="92.831657"
+             y="545.20996"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start">VERSCHLÜSSELTE VERBINDUNG</tspan><tspan
+             sodipodi:role="line"
+             x="92.831657"
+             y="563.95996"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan7096">ZU DEN FREIFUNK-SERVERN HERSTELLEN</tspan></text>
+        <g
+           id="g7098">
+          <g
+             transform="matrix(0.89583266,0,0,0.89583266,-13.440476,147.86535)"
+             id="g7100">
+            <path
+               id="path7102"
+               style="fill:none;stroke:#100f0d;stroke-width:5.47309256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               d="m 57.297723,448.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 62.383902,448.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+               style="fill:none;stroke:#100f0d;stroke-width:0.91102129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               id="path7104" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="53.736393"
+             y="554.08759"
+             id="text7106"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="53.736393"
+               y="554.08759"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+               id="tspan7108">1</tspan></text>
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7110"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(-0.09509,473.07668)"><flowRegion
+           id="flowRegion7112"><rect
+             style="text-align:justify;text-anchor:start"
+             id="rect7114"
+             width="453.75763"
+             height="98.926765"
+             x="35.21875"
+             y="293.25" /></flowRegion><flowPara
+           id="flowPara7116"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start">Die <flowSpan
+   id="flowSpan7118"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold';text-align:justify;text-anchor:start">intelligente Freifunk-Software</flowSpan> sucht im Betrieb nach anderen Freifunk-Routern in der Nähe. Findet sie geeignete Router in der Funkreichweite Deines Geräts, <flowSpan
+   id="flowSpan7120"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold';text-align:justify;text-anchor:start">verbinden sich diese automatisch</flowSpan> in einem sogenannten <flowSpan
+   id="flowSpan7122"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic';text-align:justify;text-anchor:start">Mesh</flowSpan> oder <flowSpan
+   id="flowSpan7124"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic';text-align:justify;text-anchor:start">Maschen-Netzwerk</flowSpan>. Über das <flowSpan
+   id="flowSpan7126"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic';text-align:justify;text-anchor:start">Maschen-Netzwerk</flowSpan> können sich mehrere Freifunk-Router z.B. eine <flowSpan
+   id="flowSpan7128"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold';text-align:justify;text-anchor:start">Internetverbindung teilen</flowSpan>, ohne dass jedes Gerät einzeln an das Internet angeschlossen werden muss.</flowPara></flowRoot>      <g
+         transform="translate(-0.16817054,175.84967)"
+         id="g7130">
+        <text
+           sodipodi:linespacing="125%"
+           id="text7132"
+           y="545.20996"
+           x="92.831657"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="545.20996"
+             x="92.831657"
+             id="tspan7134"
+             sodipodi:role="line">ANDERE FREIFUNK-ROUTER IN DER NÄHE</tspan><tspan
+             id="tspan7136"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="563.95996"
+             x="92.831657"
+             sodipodi:role="line">SUCHEN UND VERBINDEN</tspan></text>
+        <g
+           id="g7138">
+          <g
+             id="g7140"
+             transform="matrix(0.89583266,0,0,0.89583266,-13.440476,147.86535)">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57.297723,448.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+               style="fill:none;stroke:#100f0d;stroke-width:5.47309256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               id="path7142" />
+            <path
+               id="path7144"
+               style="fill:none;stroke:#100f0d;stroke-width:0.91102129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+               d="m 62.383902,448.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text7146"
+             y="554.17004"
+             x="53.166393"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               id="tspan7148"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="554.17004"
+               x="53.166393"
+               sodipodi:role="line">2</tspan></text>
+        </g>
+      </g>
+      <flowRoot
+         transform="translate(-0.44177,649.34394)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot7150"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7152"><rect
+             y="293.25"
+             x="35.21875"
+             height="98.926765"
+             width="453.75763"
+             id="rect7154" /></flowRegion><flowPara
+           id="flowPara7156"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start">Deine <flowSpan
+   id="flowSpan7158"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">Besucher, Gäste oder Kunden</flowSpan> sehen nach der Inbetriebnahme des Freifunk-Routers auf ihrem <flowSpan
+   id="flowSpan7160"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">Smartphone, Tablet oder Laptop</flowSpan> ein <flowSpan
+   id="flowSpan7162"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">neues WLAN</flowSpan> namens <flowSpan
+   id="flowSpan7164"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'">&quot;</flowSpan><flowSpan
+   id="flowSpan7166"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'">karlsruhe.freifunk.net&quot;</flowSpan>. Einfach antippen oder anklicken und <flowSpan
+   id="flowSpan7168"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">schon sind sie im Internet</flowSpan>. Da <flowSpan
+   id="flowSpan7170"
+   style="font-style:italic;font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold Italic'">Freifunk</flowSpan> ein offenes Netzwerk ist, werden keine Passwörter, Gutscheine oder sonstige Anmeldeformalitäten benötigt.</flowPara><flowPara
+           id="flowPara7172"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start"
+           id="flowPara7174" /></flowRoot>      <text
+         transform="translate(-0.16817054,352.11693)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="92.831657"
+         y="545.20996"
+         id="text7176"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="92.831657"
+           y="545.20996"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7178">OFFENES WLAN MIT DER ZUGANGSKENNUNG</tspan><tspan
+           id="tspan7180"
+           sodipodi:role="line"
+           x="92.831657"
+           y="563.95996"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"><tspan
+   id="tspan7182"
+   style="font-style:italic;-inkscape-font-specification:'Myriad Pro Heavy Italic'">KARLSRUHE.FREIFUNK.NET</tspan> BEREITSTELLEN</tspan></text>
+      <g
+         transform="translate(-0.16817054,352.11693)"
+         id="g7184">
+        <g
+           transform="matrix(0.89583266,0,0,0.89583266,-13.440476,147.86535)"
+           id="g7186">
+          <path
+             id="path7188"
+             style="fill:none;stroke:#100f0d;stroke-width:5.47309256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+             d="m 57.297723,448.01523 c 0,-12.07282 9.745529,-21.85888 21.768274,-21.85888 12.021552,0 21.767083,9.78606 21.767083,21.85888 0,12.07282 -9.745531,21.86008 -21.767083,21.86008 -12.022745,0 -21.768274,-9.78726 -21.768274,-21.86008 z"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 62.383902,448.01523 c 0,-9.25193 7.468313,-16.75124 16.682095,-16.75124 9.212589,0 16.680902,7.49931 16.680902,16.75124 0,9.25193 -7.468313,16.75244 -16.680902,16.75244 -9.213782,0 -16.682095,-7.50051 -16.682095,-16.75244 z"
+             style="fill:none;stroke:#100f0d;stroke-width:0.91102129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+             id="path7190" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="53.233894"
+           y="554.08759"
+           id="text7192"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="53.233894"
+             y="554.08759"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan7194">3</tspan></text>
+      </g>
+      <g
+         id="g7196"
+         transform="translate(-1.6894018e-6,1.999985)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="35.208073"
+           y="440.186"
+           id="text7198"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="35.208073"
+             y="440.186"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan7200">WAS MACHT MEIN FREIFUNK-ROUTER EIGENTLICH?</tspan></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7202"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(0.04740266,166.32739)"><flowRegion
+             id="flowRegion7204"><rect
+               id="rect7206"
+               width="453.75763"
+               height="98.926765"
+               x="35.21875"
+               y="293.25" /></flowRegion><flowPara
+             id="flowPara7208"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start">Bevor Du Deinen <flowSpan
+   id="flowSpan7210"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">neuen Freifunk-Router</flowSpan> einrichtest und aufstellst, möchtest Du vielleicht wissen, welche Aufgaben das Gerät überhaupt erfüllt. Hier sind die <flowSpan
+   id="flowSpan7212"
+   style="font-weight:600;-inkscape-font-specification:'Myriad Pro Semi-Bold'">drei wichtigsten Funktionen</flowSpan> kurz erklärt.</flowPara><flowPara
+             id="flowPara7214"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84000015px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start" /><flowPara
+             id="flowPara7216"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:justify;text-anchor:start" /></flowRoot>      </g>
+    </g>
+  </g>
+</svg>

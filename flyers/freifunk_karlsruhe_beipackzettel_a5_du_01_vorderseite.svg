@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg3797"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="freifunk_karlsruhe_beipackzettel_a5_du_01_vorderseite.svg">
   <defs
      id="defs3799">
@@ -91,17 +91,17 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.7253405"
      inkscape:cx="239.9172"
-     inkscape:cy="520.66467"
+     inkscape:cy="242.45872"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3535"
+     inkscape:current-layer="g3323"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1401"
-     inkscape:window-height="1024"
-     inkscape:window-x="311"
-     inkscape:window-y="64"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1142"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -395,7 +395,7 @@
          transform="translate(2.1188591e-6,335.70221)">
         <text
            xml:space="preserve"
-           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:Eurostile;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            x="92.831657"
            y="545.20996"
            id="text3325"
@@ -403,15 +403,15 @@
              sodipodi:role="line"
              x="92.831657"
              y="545.20996"
-             style="font-size:15px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Heavy"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan3329">OFFENES WLAN MIT DER ZUGANGSKENNUNG</tspan><tspan
              id="tspan3425"
              sodipodi:role="line"
              x="92.831657"
              y="563.95996"
-             style="font-size:15px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Heavy"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"><tspan
    id="tspan3427"
-   style="font-style:italic;-inkscape-font-specification:Myriad Pro Heavy Italic">FREIFUNK.KARLSRUHE.NET</tspan> BEREITSTELLEN</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'Myriad Pro Heavy Italic'">KARLSRUHE.FREIFUNK.NET</tspan> BEREITSTELLEN</tspan></text>
         <g
            id="g3331">
           <g
