@@ -1,5 +1,5 @@
-Freifunk Karlsruhe Propaganda Material
---------------------------------------
+Freifunk Karlsruhe/->Pforzheim Propaganda Material
+--------------------------------------------------
 
 Zum Bearbeiten der Projekt-Daten empfiehlt sich der SVG Editor [Inkscape](http://inkscape.org).
    
