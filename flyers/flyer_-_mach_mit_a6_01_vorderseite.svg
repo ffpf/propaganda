@@ -14,8 +14,8 @@
    height="531.49603"
    id="svg9558"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="freifunk_karlsruhe_flyer_-_mach_mit_a6_01_vorderseite.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="flyer_-_mach_mit_a6_01_vorderseite.svg">
   <defs
      id="defs9560" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="168.96109"
+     inkscape:cx="273.60395"
      inkscape:cy="269.16474"
      inkscape:document-units="mm"
-     inkscape:current-layer="g7094"
+     inkscape:current-layer="g5821"
      showgrid="false"
      units="mm"
      showguides="true"
@@ -38,7 +38,7 @@
      inkscape:window-height="956"
      inkscape:window-x="262"
      inkscape:window-y="105"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -48,19 +48,23 @@
     <sodipodi:guide
        orientation="1,0"
        position="3.5433071,361.42857"
-       id="guide9747" />
+       id="guide9747"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="50,527.95276"
-       id="guide9749" />
+       id="guide9749"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="375.59055,330"
-       id="guide9751" />
+       id="guide9751"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="95,3.5433071"
-       id="guide9753" />
+       id="guide9753"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata9563">
@@ -90,24 +94,25 @@
        style="fill:#dc0067;fill-opacity:1;stroke:#7a7a7a icc-color(Gray-Tone, 50.81406882, 128.00195315, 128.00195315);stroke-width:0;stroke-linecap:butt;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:71.96301609;display:inline" />
     <flowRoot
        transform="translate(-33.949012,614.20983)"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:108.00000429%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot5300-1"
        xml:space="preserve"><flowRegion
-         id="flowRegion5302-9"><rect
-           style="font-size:40px;text-align:center;line-height:108.00000429%;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRegion5302-9"
+         style="font-family:sans-serif"><rect
+           style="font-size:40px;line-height:108.00000429%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
            y="275.40942"
            x="69"
            height="142.40445"
            width="307.1575"
            id="rect5304-8" /></flowRegion><flowPara
-         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:108.00000429%;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap Bold Italic"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:108.00000429%;font-family:Asap;-inkscape-font-specification:'Asap Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
          id="flowPara3831"><flowSpan
    id="flowSpan3044"
-   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:108.00000429%;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap Bold">Mach' mit bei </flowSpan>freiem<flowSpan
-   style="font-size:40px;font-style:normal;fill:#ffffff;-inkscape-font-specification:Asap Bold"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:108.00000429%;font-family:Asap;-inkscape-font-specification:'Asap Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">Mach' mit bei </flowSpan>freiem<flowSpan
+   style="font-style:normal;font-size:40px;-inkscape-font-specification:'Asap Bold';fill:#ffffff"
    id="flowSpan3833"> WLAN</flowSpan></flowPara><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:108.00000429%;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap Bold"
-         id="flowPara3046">in Karlsruhe</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:108.00000429%;font-family:Asap;-inkscape-font-specification:'Asap Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowPara3046">in Pforzheim</flowPara></flowRoot>    <g
        transform="matrix(1.0578845,0,0,1.0578845,-10.972995,338.32233)"
        style="display:inline"
        id="g5821">
